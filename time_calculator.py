@@ -49,8 +49,6 @@ def add_time(start, duration, day_of_week=False):
     elif(amount_of_days > 1):
       return returnTime + " (" + str(amount_of_days) + " days later)" 
     return returnTime
-
-  
   
 
 
